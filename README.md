@@ -1,5 +1,4 @@
-# My webpage
-This is a simple web page.
+# Simple web page!
 
 ## GitHub Getting Started 
 In this repo , I have learnt how to use GitHub seccessfully.
